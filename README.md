@@ -3,6 +3,8 @@
 > **This is a clone of the original [openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) repository, enhanced with extensive documentation for learners.** The original plugin code is unchanged — all additions are documentation files (`docs/`, `CLAUDE.md`, and this README).
 
 > **Inspired by:** ["OpenClaw's Memory Sucks and the fix is simple — Dhravya Shah, Supermemory"](https://www.youtube.com/watch?v=Io0mAsHkiRY&t=14s) on the Latent Space Podcast. The video explains why hooks-based memory architectures outperform tools-based approaches, and this repo is the implementation discussed in that conversation.
+>
+> **Watch the video first** to understand the "why" before diving into the "how": [https://www.youtube.com/watch?v=Io0mAsHkiRY&t=14s](https://www.youtube.com/watch?v=Io0mAsHkiRY&t=14s)
 
 ---
 
